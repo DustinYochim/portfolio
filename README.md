@@ -1,2 +1,2 @@
-# hughjass
+# Portfolio
  SvelteKit & TailwindCSS web portfolio
